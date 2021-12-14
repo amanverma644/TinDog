@@ -37,6 +37,16 @@ p {
   padding: 7% 15%;
 }
 
+/* Sections  */
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
 /* Navigation Bar  */
 .navbar {
   padding: 0 0 4.5rem;
@@ -63,13 +73,9 @@ p {
 }
 
 /* Title Section  */
-#title {
-  background-color: #ff4c68;
-  text-align: left;
-}
-
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 /* title image  */
 .title-image {
@@ -82,7 +88,6 @@ p {
 /* feature section */
 #features {
   position: relative;
-  background-color: #fff;
 }
 
 .feature-box {
@@ -143,10 +148,8 @@ p {
 
 /* CTA section  */
 #cta {
-  background-color: #ff4c68;
   color: #fff;
 }
-/* Footer Section  */
 
 .social-icon {
   margin: 20px 10px;
