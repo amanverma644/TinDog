@@ -1,2 +1,2 @@
 # TinDog
-Similar to Tinder but for DOGS ONLY!
+Similar to Tinder but not for HOOMANS!
